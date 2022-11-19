@@ -77,7 +77,7 @@ function App() {
 
   return (
     
-    <div className="container border border-primary mt-5">
+    <div className="container mt-5">
 
       <H1 value={"listings"}></H1>
 
