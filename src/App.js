@@ -88,7 +88,7 @@ function App() {
       
       </div>
       
-      <input className=" mt-2 mb-2 col-1 p-2" type="text" readOnly value={arr.length+" Users "}></input>
+      <input className=" mt-2 mb-2 text-wrap p-2" type="text" readOnly value={arr.length+" Users "}></input>
 
       <Table dataArr={arr}></Table>
     </div>
